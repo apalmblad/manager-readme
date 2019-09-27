@@ -4,7 +4,9 @@
 I'm here to help you get things done.  I can track things down, remove blockers, answer questions, and do my best to explain
 the bigger picture as I see it.  I want to see you succeed, in your current role, now, and wherever your career takes you.  
 
-As a team, I want to work with people I enjoy spending time with.  I want to keep us vaguely pointed in the same direction, working together and helping each other move forward.
+As a team, I want to work with people I enjoy spending time with.  I want to keep us vaguely pointed in the same direction, working together and helping each other move forward.  I try to be a bit of process minimalist; if you need more structure or direction, let's chat.
+
+I'm most engaged at work with a hard problem.  Point me at a problem and let me go.  Sometimes that can be a `firedrill` or sometimes a longer problem.  I'm working to find a better relationship with deadlines; but often end up tackling things close to the deadline.
 
 ### Communication
 
@@ -17,7 +19,7 @@ Urgency Priority:
 
 I like brevity.  Longer discussions or things that are intended for a wider audience or a longer life should be put in email (or a document) instead of IM.  Keep things clear, direct, and transparent.
 
-If I'm wearing headphones, please use IM first unless it's urgent.
+If I'm wearing headphones, please use IM first unless it's urgent.  If you need to chat, that's great.  I've gotten pretty good at zoning into what I'm working on, so don't worry if I seem surprised when you interupt me.
 
 I'm an introvert, and in meetings am often not the first to jump up and say something, generally preferring some reflection.  I shoot for quality over quantity.
 
@@ -33,7 +35,7 @@ Generally, I strive to praise in public, and criticize in private.  I'll do my b
 
 I've been told I have a tendency to stay away from superlatives, you may find you need to scale up my phrasing; my "pretty good" might be someone else's great.
 
-From peers, I'm coming from a very different environment.  Any feedback on how to best succeed here is appreciated.  Catch my eye or pull me aside, and I'd love to grab a coffee.
+From peers, any feedback on how to  succeed is appreciated.  Catch my eye or pull me aside, and I'd love to grab a coffee.
 
 ### 1:1s
 
@@ -58,17 +60,19 @@ For me, from a 1:1 with my manager, I like to get an higher level view of what's
 
 ### Hours
 
-I like M-F, 8:30 - 17:00.  I may be around on email or slack outside that time.  Unless previously discussed, or if there's an emergency, I don't expect you to respond to emails outside your regular hours.
+I like M-F, 8:30 - 17:00.  I may be around on email or slack outside that time.  Unless previously discussed, or if there's an emergency, I don't expect you to respond to emails outside your regular hours.  I've got a toddler and like to be home in time to at least eat, and sometimes prepare, dinner for 6.
 
 For reports, I'm  fine with flexible hours, but like consistency and significant overlap amongst me and team members you work closely with.
 
-### On Grumpiness
+### On Grumpiness and Stress
 
 Grumpiness has lots of causes, generally stress or sleep related.    Generally, leaving the stresses of a small business with tight finances has done wonders for my grumpiness - it's hard to find something worse than payroll-making fears.
 
 I'll do my best to hide it, but I might be shorter or quieter.
 
-To deal with it, fresh air, a change of scenery, coffee or other BEvERages generally can help.
+If I seem stressed, encouragement and minor check-ins can be great, but a deeper dive on the current problem in the middle of it might be frustrating unless I'm stuck; the problem is already likely eating up a ton of my mind.
+
+To deal with it, fresh air, a change of scenery, coffee or other BEvERages generally can help.  I've been told by coworkers they can tell when it's been awhile since I've been out in the mountains, so that's definitely another outlet.  Regular biking also helps.
 
 
 ### About Me
@@ -81,7 +85,7 @@ Homemade is best, but something delicious from an independent baker is great too
 
 ### Where's this from?
 
-I came across the idea for a readme strangely enough from some spam from techvibes (They used to share an office with us).  Seemed like a reasonable thing, so I took a first stab as I joined Clio.  More information here:
+I came across the idea for a readme strangely enough from some spam from techvibes (They used to share an office with us).  Seemed like a reasonable thing, so I took a first stab in 2018.  Updated in 2019-09 for a Clio training program.
 
 https://techvibes.com/2018/06/27/eight-things-we-learned-from-reading-49-manager-readmes
 https://larahogan.me/blog/first-one-on-one-questions/
