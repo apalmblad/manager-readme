@@ -31,7 +31,7 @@ Except for quick hits, I tend to prefer receiving it in regular private periods,
 
 If you'd like more, please ask.
 
-Generally, I strive to praise in public, and criticize in private.  I'll do my best to be clear.  When in doubt, especially wiht negative feedback, start with a thank-you, and give it more thought.  Feedback can lead to a discussion, but I'm happy to revisit it later if you'd like time to think for a discussion.
+Generally, I strive to praise in public, and criticize in private.  I'll do my best to be clear.  When in doubt, especially with negative feedback, start with a thank-you, and give it more thought.  Feedback can lead to a discussion, but I'm happy to revisit it later if you'd like time to think for a discussion.
 
 I've been told I have a tendency to stay away from superlatives, you may find you need to scale up my phrasing; my "pretty good" might be someone else's great.
 
